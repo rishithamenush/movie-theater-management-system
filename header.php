@@ -24,7 +24,7 @@ date_default_timezone_set('Asia/Colombo');
 	<div class="header-top">
 		<div class="wrap">
 			<div class="h-logo">
-			<a href="index.php"><img src="images/logo.png" alt=""/></a>
+			<a href="index.php"><img src="images/logo_.png" alt=""/></a>
 		</div>
 			  <div class="nav-wrap">
 					<ul class="group" id="example-one">
