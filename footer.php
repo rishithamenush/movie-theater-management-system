@@ -12,9 +12,9 @@
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<div class="textcontact">
-						<p>Theatre Assistance<br>
-						Theatre 3D Movie<br>
-						Ph: +1-800-234-52589.<br>
+						<p>Theatre Assistance Staff<br>
+						Cineplex Movie Theatre<br>
+						Ph: 011-6793238.<br>
 						</p>
 					</div>
 				</div>
