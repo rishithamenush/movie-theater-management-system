@@ -2,9 +2,9 @@
 
   <footer class="main-footer">
     <div class="pull-right hidden-xs">
-      <b>Version</b> 2.3.8
+      <b>Version</b>1.0
     </div>
-    <strong>Copyright &copy; 2014-2016 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights
+    <strong>Copyright &copy; 2020-2024 <a href="http://almsaeedstudio.com"></a>.</strong> All rights
     reserved.
   </footer>
 
@@ -27,9 +27,7 @@
               <i class="menu-icon fa fa-birthday-cake bg-red"></i>
 
               <div class="menu-info">
-                <h4 class="control-sidebar-subheading">Langdon's Birthday</h4>
-
-                <p>Will be 23 on April 24th</p>
+               
               </div>
             </a>
           </li>
@@ -38,9 +36,7 @@
               <i class="menu-icon fa fa-user bg-yellow"></i>
 
               <div class="menu-info">
-                <h4 class="control-sidebar-subheading">Frodo Updated His Profile</h4>
-
-                <p>New phone +1(800)555-1234</p>
+               
               </div>
             </a>
           </li>
@@ -49,9 +45,7 @@
               <i class="menu-icon fa fa-envelope-o bg-light-blue"></i>
 
               <div class="menu-info">
-                <h4 class="control-sidebar-subheading">Nora Joined Mailing List</h4>
-
-                <p>nora@example.com</p>
+               
               </div>
             </a>
           </li>
@@ -60,9 +54,7 @@
               <i class="menu-icon fa fa-file-code-o bg-green"></i>
 
               <div class="menu-info">
-                <h4 class="control-sidebar-subheading">Cron Job 254 Executed</h4>
-
-                <p>Execution time 5 seconds</p>
+                
               </div>
             </a>
           </li>
@@ -98,7 +90,7 @@
           <li>
             <a href="javascript:void(0)">
               <h4 class="control-sidebar-subheading">
-                Laravel Integration
+                Project Integration
                 <span class="label label-warning pull-right">50%</span>
               </h4>
 
