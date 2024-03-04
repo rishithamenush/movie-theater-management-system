@@ -123,7 +123,7 @@ include('../../config.php');
         
           <li class="treeview">
           <a href="add_theatre.php">
-            <i class="fa fa-plus"></i> <span>Add Theatre</span>
+            <i class="fa fa-plus"></i> <span>Add Staff</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
