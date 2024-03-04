@@ -89,10 +89,10 @@
       				</div>
       			<div class="company_address">
 				     	<h3>Company Information :</h3>
-						    	<p>500 Lorem Ipsum Dolor Sit,</p>
-						   		<p>22-56-2-9 Sit Amet, Lorem,</p>
-						<p>Phone:(00) 222 666 444</p>
-				   		<p>Fax: (000) 000 00 00 0</p>
+						    	<p>Cineplex Movie Theatre</p>
+						   		<p></p>
+						<p>Phone:</p>
+				   		<p>Fax: </p>
 				 	 	<p>Email: <span>info@mycompany.com</span></p>
 				   		<p>Follow on: <span>Facebook</span>, <span>Twitter</span></p>
 				   </div>
@@ -117,17 +117,13 @@
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<div class="textcontact">
-						<p>consectetuer adipiscing elit,<br>
-						consectetuer<br>
-						Ph: +1-800-234-52589.<br>
-						Email:Support(at)Fotoria-scope.com<br>
-						</p>
+						
 					</div>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<div class="call_info">
 						<p class="txt_3">Call us toll free:</p>
-						<p class="txt_4">1 800 234 23456</p>
+						<p class="txt_4">011-6793238</p>
 					</div>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
