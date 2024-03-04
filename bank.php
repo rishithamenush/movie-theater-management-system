@@ -36,7 +36,7 @@ extract($_POST);
   <hr class="divider">
   <dl class="mercDetails">
   	<dt>Merchant</dt> 				<dd>Shop Street</dd>
-    <dt>Transaction Amount</dt> 	<dd>INR <?php echo  $_SESSION['amount'];?></dd>
+    <dt>Transaction Amount</dt> 	<dd>LKR <?php echo  $_SESSION['amount'];?></dd>
     <dt>Debit Card</dt> 		<dd><?php echo  $number;?></%></dd>
   </dl>
   <hr class="divider">
