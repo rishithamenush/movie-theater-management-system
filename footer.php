@@ -20,7 +20,7 @@
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<div class="call_info">
-						<p class="txt_3">Call Us</p>
+						<p class="txt_3">Contact Us</p>
 						<p class="txt_4">011-6793238</p>
 					</div>
 				</div>
