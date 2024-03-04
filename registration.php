@@ -5,7 +5,7 @@
   <!-- =============================================== -->
   <?php
     include('form.php');
-    $frm=new formBuilder;      
+    $frm=new formBuilder;       
   ?> 
 </div>
 <div class="content">

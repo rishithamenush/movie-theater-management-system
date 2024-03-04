@@ -14,7 +14,7 @@
 					<div class="textcontact">
 						<p>Theatre Assistance Staff<br>
 						Cineplex Movie Theatre<br>
-						Ph: 011-6793238.<br>
+						Ph: 011-6793238.<br> 
 						</p>
 					</div>
 				</div>

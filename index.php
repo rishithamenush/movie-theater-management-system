@@ -15,7 +15,7 @@ include('header.php');
 					while($n=mysqli_fetch_array($qry3))
 					{
 					?>
-				<div class="content-left">
+				<div class="content-left"> 
 					<div class="listimg listimg_1_of_2">
 						 <img src="admin/<?php echo $n['attachment'];?>">
 					</div>

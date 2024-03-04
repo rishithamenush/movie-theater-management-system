@@ -12,7 +12,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js'></script>
 <script src='js/jquery.color-RGBa-patch.js'></script>
-<script src='js/example.js'></script>
+<script src='js/example.js'></script> 
 </head>
 <body>
 <div class="header">

@@ -1,9 +1,4 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -150,7 +145,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="footer-bottom">
 	<div class="wrap">
 	<div class="copy">
-		<p>All rights Reserved | Design by <a href="http://w3layouts.com">W3Layouts</a></p>
+		<p>All rights Reserved | Design by</p>
 	</div>
  	</div>
 </div>

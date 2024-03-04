@@ -6,7 +6,7 @@
 			<div class="col-md-4 col-md-offset-4">
 				<div class="panel panel-default">
 				  <div class="panel-heading">Login</div>
-				  <div class="panel-body">
+				  <div class="panel-body"> 
 				  	<?php include('msgbox.php');?>
 				<p class="login-box-msg">Sign in to start your session</p>
 				<form action="process_login.php" method="post">

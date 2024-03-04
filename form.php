@@ -11,7 +11,7 @@ class formBuilder
 		if ($type=="text") // if text box
 		{
 			$input="<input type='text' name='$name' id='$id' class='$class' placeholder='$placeholder' $opt>";
-            echo $input;
+            echo $input; 
 		}
         if ($type=="date") // if text box
 		{

@@ -7,7 +7,7 @@ if(!isset($_SESSION['user']))
 	$movie=mysqli_fetch_array($qry2);
 	?>
 <div class="content">
-	<div class="wrap">
+	<div class="wrap"> 
 		<div class="content-top">
 				<div class="section group">
 					<div class="about span_1_of_2">	

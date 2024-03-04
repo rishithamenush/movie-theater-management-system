@@ -16,7 +16,7 @@
                     <div class="col_1_of_4 span_1_of_4">
 					<div class="imageRow">
 						  	<div class="single">
-						  		<?php
+						  		<?php 
 						
 						?>
 						  		<a href="about.php?id=<?php echo $m['movie_id'];?>"><img src="<?php echo $m['image'];?>" alt="" /></a>

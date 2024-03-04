@@ -18,7 +18,7 @@
 [21-May-2017 09:11:14 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/web/index.php:45
 [21-May-2017 09:11:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/web/movie_sidebar.php on line 18
 [21-May-2017 09:11:14 UTC] PHP Stack trace:
-[21-May-2017 09:11:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0
+[21-May-2017 09:11:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0 
 [21-May-2017 09:11:14 UTC] PHP   2. include() /home/ubuntu/workspace/web/index.php:211
 [21-May-2017 09:11:14 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/web/movie_sidebar.php:18
 [21-May-2017 09:11:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/web/index.php on line 45

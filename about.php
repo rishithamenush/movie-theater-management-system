@@ -10,7 +10,7 @@
 						<h3><?php echo $movie['movie_name']; ?></h3>	
 							<div class="about-top">	
 								<div class="grid images_3_of_2">
-									<img src="<?php echo $movie['image']; ?>" alt=""/>
+									<img src="<?php echo $movie['image']; ?>" alt=""/> 
 								</div>
 								<div class="desc span_3_of_2">
 									<p class="p-link" style="font-size:15px">Cast : <?php echo $movie['cast']; ?></p>

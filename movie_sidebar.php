@@ -10,7 +10,7 @@
                    {
                     ?>
             <div class="content-left">
-					<div class="listimg listimg_1_of_2">
+					<div class="listimg listimg_1_of_2"> 
 					<?php
 						
 						?>
